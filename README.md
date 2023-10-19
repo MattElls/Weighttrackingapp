@@ -1,1 +1,1 @@
-# Weighttrackingapp
+#The app was designed as a weight tracking app for people to submit the weight daily and the elements requested were for sms notifications with a log in screen.  There were 3 screens that were ade.  a log in, a shown growth page, and page to submit the weight for the day.  The process starting with the design draft, then I made the initial UI.  After I had the UI elements I then added functionality.  I was able to use the phone simulator to test the code and also Andoid Studio has previews of the screen elements.
